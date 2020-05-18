@@ -11,3 +11,4 @@ Not so popular awesome productivity apps for MacOS
 
 * [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
+* [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
